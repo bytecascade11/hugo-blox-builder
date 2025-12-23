@@ -1,11 +1,9 @@
-title: ByteCascade 
-baseURL: https://example.com
+title: "ByteCascade"
+baseURL: "https://example.com"
 theme: hugo-blox-builder
 params:
+  description: "A brief description of my Hugo site"
+  author: "iSamuel"
   appearance:
     theme_day: minimal
     theme_night: dark
-
-module:
-  imports:
-    - path: github.com/hugoblox/hugo-blox-builder
