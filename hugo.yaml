@@ -5,3 +5,7 @@ params:
   appearance:
     theme_day: minimal
     theme_night: dark
+
+module:
+  imports:
+    - path: github.com/hugoblox/hugo-blox-builder
